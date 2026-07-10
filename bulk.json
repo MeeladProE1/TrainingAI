@@ -1,0 +1,202 @@
+[
+	{
+		"category": "mathematics_algebra",
+		"data": "Quadratic Formula Mechanics: The quadratic formula solves for the unknown variable x in any polynomial equation of degree two. It calculates the roots by taking negative b, plus or minus the square root of the discriminant (b squared minus 4ac), and dividing the entire resulting value by two times coefficient a."
+	},
+	{
+		"category": "mathematics_algebra",
+		"data": "Logarithm Function Rules: A logarithm is the inverse mathematical operation of exponentiation. It calculates the exact exponent power to which a specified base number must be raised to yield a given target value, meaning log base 10 of 100 equals 2 because 10 squared equals 100."
+	},
+	{
+		"category": "mathematics_algebra",
+		"data": "Complex Numbers and Imaginary Units: A complex number is an element of a number system that contains two distinct structural parts: a real number component and an imaginary number component. The imaginary system is built upon the unit letter i, which is defined as the square root of negative 1."
+	},
+	{
+		"category": "mathematics_algebra",
+		"data": "The Distributive Property: This algebraic law states that multiplying a single scalar value by a sum of terms inside a set of parentheses is equivalent to multiplying the scalar by each individual term inside the parentheses separately and then adding the products together."
+	},
+	{
+		"category": "mathematics_algebra",
+		"data": "Systems of Linear Equations: A system of linear equations is a collection of two or more equations sharing a common set of unknown variables. The system can be resolved to find a single point of intersection using methods of graphing, variable substitution, elimination, or matrix row reduction."
+	},
+	{
+		"category": "mathematics_calculus",
+		"data": "The Fundamental Theorem of Calculus: This theorem establishes a core connection between differentiation and integration. The first part states that if a function is continuous, its definite integral can be used to construct an antiderivative. The second part allows the calculation of a definite integral across an interval by evaluating the antiderivative at the boundary endpoints."
+	},
+	{
+		"category": "mathematics_calculus",
+		"data": "Definition of a Derivative: The derivative of a function measures the instantaneous rate of change of the output variable with respect to the input variable. Geometrically, it represents the exact slope of the tangent line to the function's curve at a specific coordinate, mathematically defined using the limit of a difference quotient as change approaches zero."
+	},
+	{
+		"category": "mathematics_calculus",
+		"data": "Taylor Series Expansion: A Taylor series is an infinite sum of terms expressed in terms of the function's derivatives evaluated at a single point. It allows complex, non-polynomial functions like sine, cosine, or exponential curves to be approximated locally around a specific point using simpler polynomial math sequences."
+	},
+	{
+		"category": "mathematics_calculus",
+		"data": "Chain Rule for Differentiation: The chain rule is a formula used to calculate the derivative of a composite function. If a function variable depends on a second variable, which in turn depends on a third variable, the rate of change of the first with respect to the third is the product of the individual derivatives multiplied together."
+	},
+	{
+		"category": "mathematics_calculus",
+		"data": "L'Hopital's Rule for Limits: This mathematical rule provides a method for evaluating limits of indeterminate forms, specifically zero divided by zero or infinity divided by infinity. The rule states that the limit of a fraction of two functions is equal to the limit of the fraction of their individual derivatives, provided the limit exists."
+	},
+	{
+		"category": "mathematics_calculus",
+		"data": "Partial Derivatives: In multivariable calculus, a partial derivative of a function of several variables is its derivative with respect to one specified variable while all other remaining variables are treated as fixed constants. This is used to analyze slopes along specific axes in multidimensional geometric spaces."
+	},
+	{
+		"category": "mathematics_calculus",
+		"data": "Riemann Sum Integration: A Riemann sum is a specific method for approximating the total area underneath a curve on a graph. It is calculated by dividing the total horizontal geometric interval into a series of smaller vertical rectangles, calculating the area of each individual rectangle, and summing the total results."
+	},
+	{
+		"category": "mathematics_calculus",
+		"data": "Vector Gradient Vector Fields: The gradient of a scalar function outputs a vector field whose direction points along the path of the steepest local rate of increase of the function. The total numerical magnitude of the gradient vector matches the actual rate of that spatial increase."
+	},
+	{
+		"category": "mathematics_calculus",
+		"data": "Divergence Theorem: This vector calculus theorem relates the flux of a vector field passing outward through a closed spatial surface boundary directly to the volume integral of the field's divergence evaluated inside the bounded three-dimensional volume space."
+	},
+	{
+		"category": "mathematics_data_science",
+		"data": "Euclidean Distance Calculation: In multi-dimensional spaces, Euclidean distance calculates the straight-line length separating two coordinate points. It is computed by taking the square root of the sum of the squared differences between the matching coordinates of the two data vectors."
+	},
+	{
+		"category": "mathematics_data_science",
+		"data": "Cosine Similarity Formula: Cosine similarity evaluates how closely oriented two data vectors are within a multi-dimensional space, completely ignoring differences in vector length magnitudes. It is calculated by dividing the vector dot product by the product of their individual Euclidean norms."
+	},
+	{
+		"category": "mathematics_data_science",
+		"data": "Principal Component Analysis (PCA): PCA is a mathematical dimensionality-reduction technique that transforms a large set of correlated variables into a smaller, optimized set of uncorrelated variables called principal components, by analyzing matrix covariance and eigenvalues."
+	},
+	{
+		"category": "mathematics_data_science",
+		"data": "Markov Chain Properties: A Markov chain is a random mathematical model describing a sequence of possible states where the probability of transitioning to any future state depends solely upon the current state of the system, completely uninfluenced by the historical path taken."
+	},
+	{
+		"category": "mathematics_data_science",
+		"data": "Confusion Matrix Analysis: Used to evaluate classification performance in data science, this tabular matrix matches actual ground-truth categories against values predicted by an AI model, mapping metrics into columns of true positives, false positives, true negatives, and false negatives."
+	},
+	{
+		"category": "mathematics_data_science",
+		"data": "Overfitting and Regularization Math: Overfitting occurs when an algorithm models training data noise instead of structural trends. Regularization fixes this by adding a mathematical penalty parameter to the cost function proportional to the size of the model weights to enforce simplicity."
+	},
+	{
+		"category": "mathematics_discrete",
+		"data": "Prime Number Properties: A prime number is a whole integer strictly greater than 1 that cannot be formed by multiplying two smaller natural numbers. It possesses exactly two distinct natural number divisors: the number 1 and itself. Numbers that have more divisors are classified as composite numbers."
+	},
+	{
+		"category": "mathematics_discrete",
+		"data": "Fibonacci Sequence Order: The Fibonacci sequence is an infinite series of numbers where each subsequent number is the exact sum of the two preceding numbers. Starting from 0 and 1, the sequence progresses to 1, 2, 3, 5, 8, 13, 21, and 34, approaching the geometric golden ratio structure asymptotically."
+	},
+	{
+		"category": "mathematics_discrete",
+		"data": "Combinations versus Permutations: Permutations track the total number of unique ways to arrange a specific subset of items from a larger pool where the exact order of arrangement matters. Combinations calculate the total number of ways to select items where the specific order of selection is completely ignored."
+	},
+	{
+		"category": "mathematics_discrete",
+		"data": "Graph Theory Fundamentals: In discrete mathematics, a graph is a structural model consisting of a set of points (called vertices or nodes) connected by a set of link lines (called edges). It is used to analyze networks, routing maps, data structures, and relational hierarchies mathematically."
+	},
+	{
+		"category": "mathematics_discrete",
+		"data": "Factorial Computations: The factorial of a non-negative integer is the product of all positive integers less than or equal to that number. It is denoted on graphs and equations by an exclamation mark, meaning 5 factorial is computed as 5 times 4 times 3 times 2 times 1, totaling exactly 120."
+	},
+	{
+		"category": "mathematics_discrete",
+		"data": "Set Theory Intersections and Unions: In set theory, the intersection of two sets creates a new set containing only the elements that exist in both sets simultaneously. The union of two sets creates an expansive set gathering all unique elements found in either set."
+	},
+	{
+		"category": "mathematics_discrete",
+		"data": "Boolean Logic Operators: Boolean algebra operates on truth values of true or false using logical gate operations. The AND operator requires both inputs to be true to output true. The OR operator outputs true if at least one input is true. The NOT operator completely inverts the logical state."
+	},
+	{
+		"category": "mathematics_geometry",
+		"data": "The Pythagorean Theorem: In a right-angled triangle, the square of the length of the hypotenuse (the side directly opposite the right angle) is exactly equal to the sum of the squares of the lengths of the other two remaining sides, traditionally expressed through the formula equation a squared plus b squared equals c squared."
+	},
+	{
+		"category": "mathematics_geometry",
+		"data": "Euclidean Space Geometry: Euclidean geometry is the study of flat planes and spatial relationships based on axioms defined by Euclid. It operates on foundational assumptions that parallel lines never intersect, the interior angles of any triangle always sum to exactly 180 degrees, and the shortest distance between points is a line."
+	},
+	{
+		"category": "mathematics_geometry",
+		"data": "Calculating Circle Dimensions: The circumference of a perfect geometric circle is calculated by multiplying its diameter by the mathematical constant pi. The total flat area contained inside the perimeter boundary is determined by multiplying pi by the square of the radius length."
+	},
+	{
+		"category": "mathematics_linear_algebra",
+		"data": "Matrix Multiplication Rules: To multiply two matrices together, the total number of columns in the first matrix must exactly equal the total number of rows in the second matrix. The resulting matrix coordinates are calculated by taking the dot product of rows from the first matrix and columns from the second matrix."
+	},
+	{
+		"category": "mathematics_linear_algebra",
+		"data": "Eigenvalues and Eigenvectors: An eigenvector of a linear transformation is a non-zero vector whose direction does not change when that linear transformation is applied to it. The scale factor by which the vector's overall length is stretched, compressed, or flipped during this transformation is called the eigenvalue."
+	},
+	{
+		"category": "mathematics_linear_algebra",
+		"data": "Determinant of a Matrix: The determinant is a scalar value that can be computed from the elements of a square matrix. Geometrically, it characterizes the scaling factor of the transformation mapped by the matrix, indicating how spatial volumes change. A matrix with a determinant of exactly zero cannot be inverted."
+	},
+	{
+		"category": "mathematics_linear_algebra",
+		"data": "Vector Dot Product: The dot product is an algebraic operation that takes two equal-length sequences of numbers and returns a single scalar value. It is calculated by multiplying corresponding entries together and summing the results. Geometrically, it represents the product of the Euclidean magnitudes of the vectors and the cosine of the angle between them."
+	},
+	{
+		"category": "mathematics_linear_algebra",
+		"data": "Vector Cross Product: The cross product is a binary operation on two vectors in a three-dimensional geometric space. It outputs a brand-new vector that is perpendicular (orthogonal) to both of the original input vectors, with a directional orientation determined by the mathematical right-hand rule."
+	},
+	{
+		"category": "mathematics_linear_algebra",
+		"data": "Singular Value Decomposition (SVD): SVD is a fundamental matrix factorization method in linear algebra. It breaks a real or complex matrix down into three constituent matrices: a left-singular vector matrix, a diagonal matrix containing singular values, and a right-singular vector matrix, which is used heavily in data compression."
+	},
+	{
+		"category": "mathematics_linear_algebra",
+		"data": "Linear Independence: A set of vectors is considered linearly independent if no vector in the set can be written as a linear combination of the remaining vectors. Mathematically, this means the only way to sum the vectors to get a zero vector is to multiply every single individual vector by a coefficient of zero."
+	},
+	{
+		"category": "mathematics_optimization",
+		"data": "Gradient Descent Algorithm: Gradient descent is a first-order iterative optimization algorithm used to find the local minimum of a differentiable function. It updates parameters step-by-step by moving in the exact opposite direction of the function's calculated gradient at the current coordinate point."
+	},
+	{
+		"category": "mathematics_optimization",
+		"data": "Stochastic Processes: A stochastic process is a mathematical collection of random variables representing the evolution of some system values over time. Instead of progressing along a single deterministic path, the system's future state tracks a series of probabilistic distributions, like Brownian particle motion."
+	},
+	{
+		"category": "mathematics_statistics",
+		"data": "The Central Limit Theorem: This probability theorem states that when an independent random sample is drawn from any underlying population, the distribution of the sample means will tend toward a normal, bell-shaped Gaussian distribution curve as the total sample size grows larger, regardless of the original population distribution."
+	},
+	{
+		"category": "mathematics_statistics",
+		"data": "Bayes' Theorem: Bayes' theorem is a mathematical formula used to determine conditional probability. It calculates the likelihood of an event occurring based on prior knowledge or conditions related to the event, expressed as the probability of A given B equals the probability of B given A times probability of A, divided by probability of B."
+	},
+	{
+		"category": "mathematics_statistics",
+		"data": "Standard Deviation and Variance: Variance measures the average squared distance of data points away from the central mean of a dataset. The standard deviation is the square root of the variance, expressing data dispersion in the exact same original units as the data tracking parameters to show variance from average benchmarks."
+	},
+	{
+		"category": "mathematics_statistics",
+		"data": "P-Value Definition: In statistical hypothesis testing, a p-value represents the exact probability of obtaining test results at least as extreme as the observed results, assuming that the null hypothesis is completely true. A lower p-value indicates stronger evidence to reject the null hypothesis in favor of the alternative."
+	},
+	{
+		"category": "mathematics_statistics",
+		"data": "Linear Regression Optimization: Linear regression models the causal relationship between a scalar dependent variable and one or more independent explanatory variables. The system finds the optimal straight line of best fit through the data points by minimizing the total sum of the squared differences between observed values and predicted values."
+	},
+	{
+		"category": "mathematics_statistics",
+		"data": "Normal Distribution Characteristics: Also known as a Gaussian distribution, this continuous probability curve is perfectly symmetrical around its central peak mean. The data density matches a bell shape, where roughly 68 percent of data falls within one standard deviation, and 95 percent falls within two standard deviations."
+	},
+	{
+		"category": "mathematics_statistics",
+		"data": "Chi-Square Test of Independence: This statistical test evaluates whether a significant relationship exists between two categorical variables. It compares the actual observed frequencies of data points inside a contingency table against the frequencies expected if the variables were completely independent."
+	},
+	{
+		"category": "mathematics_trigonometry",
+		"data": "Sine Cosine Tangent Ratios: In right-triangle geometry, the sine ratio compares the opposite side length to the hypotenuse length. The cosine ratio tracks the adjacent side length divided by the hypotenuse length. The tangent ratio is calculated by dividing the opposite side length by the adjacent side length."
+	},
+	{
+		"category": "mathematics_trigonometry",
+		"data": "The Unit Circle Paradigm: The unit circle is a circle with a radius of exactly 1 centered at the origin of a two-dimensional coordinate graph system. It maps trigonometric angles to spatial coordinates, where the x-coordinate of any angle point equals cosine, and the y-coordinate equals sine."
+	},
+	{
+		"category": "mathematics_trigonometry",
+		"data": "Radians to Degrees Conversion: Radians and degrees are two units used to measure angles. A full circle rotation equals 360 degrees, which is equivalent to 2 times pi radians. To convert radians to degrees, multiply the angle value by 180 divided by pi."
+	},
+	{
+		"category": "mathematics_trigonometry",
+		"data": "Trigonometric Identity Theorem: The fundamental Pythagorean trigonometric identity states that for any real number angle value, the square of the sine function plus the square of the cosine function always sums to exactly 1, serving as a vital baseline simplification step in calculus."
+	}
+]
